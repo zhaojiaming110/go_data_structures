@@ -1,4 +1,10 @@
 # 通过Golang学习数据结构
+## 什么是数据结构？
+数据结构是一种组织数据的方式，以便可以有效地使用数据。不同种类的数据结构适用于不同种类的应用程序，而某些则高度专用于特定任务。例如，B树特别适合于数据库的实现，而编译器的实现通常使用哈希表来查找标识符。
+## 什么是线性和非线性数据结构？
+- 线性： 如果数据结构的元素形成序列或线性列表，则称其为线性。示例：数组。链表，堆栈和队列
+- 非线性：如果节点的遍历本质上是非线性的，则数据结构被认为是非线性的。示例：图和树。
+## 数据结构
 - [Singly Linked List](https://beuself.xyz/tags/singly-linked-list/)
     - [链表简介](https://beuself.xyz/post/date-structures-with-go/%E9%93%BE%E8%A1%A8%E7%AE%80%E4%BB%8B/)
     - [链表插入](https://beuself.xyz/post/date-structures-with-go/%E6%8F%92%E5%85%A5%E8%8A%82%E7%82%B9/)
