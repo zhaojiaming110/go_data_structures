@@ -1,12 +1,12 @@
 # 通过Golang学习数据结构
 - Singly Linked List
-    - 链表简介
-    - 链表插入
-    - 在链表中删除节点（删除给定value)
-    - 在链表中删除节点（删除给定位置）
-    - 链表的长度（迭代和递归）
+    - [链表简介](https://beuself.xyz/post/date-structures-with-go/%E9%93%BE%E8%A1%A8%E7%AE%80%E4%BB%8B/)
+    - [链表插入](https://beuself.xyz/post/date-structures-with-go/%E6%8F%92%E5%85%A5%E8%8A%82%E7%82%B9/)
+    - [在链表中删除节点（删除给定value）](https://beuself.xyz/post/date-structures-with-go/1-6%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8/)
+    - [在链表中删除节点（删除给定位置）](https://beuself.xyz/post/date-structures-with-go/1-5%E5%88%A0%E9%99%A4%E8%8A%82%E7%82%B9%E6%8C%87%E5%AE%9A%E4%BD%8D%E7%BD%AE/)
+    - [链表的长度（迭代和递归）](https://beuself.xyz/post/date-structures-with-go/1-7%E9%93%BE%E8%A1%A8%E7%9A%84%E9%95%BF%E5%BA%A6%E8%BF%AD%E4%BB%A3%E5%92%8C%E9%80%92%E5%BD%92/)
 - Double Linked List
-    - 双链表简介及插入节点
+    - [双链表简介及插入节点](https://beuself.xyz/post/date-structures-with-go/double-linked-list/2-1%E5%8F%8C%E9%93%BE%E8%A1%A8%E7%AE%80%E4%BB%8B%E5%8F%8A%E6%8F%92%E5%85%A5/)
     - 删除双向链表中的节点
 - Circular Linked List
     - 循环链表简介及应用
