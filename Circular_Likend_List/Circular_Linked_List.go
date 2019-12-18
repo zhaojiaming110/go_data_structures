@@ -1,4 +1,4 @@
-package node
+package Circular_Linked_List
 
 import "fmt"
 
