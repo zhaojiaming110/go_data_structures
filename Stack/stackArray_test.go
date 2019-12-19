@@ -15,5 +15,4 @@ func Test_main(t *testing.T) {
 	fmt.Println(s.Peek())
 	s.Pop()
 	fmt.Println(s.Pop())
-
 }
