@@ -1,3 +1,4 @@
+// 链表实现堆栈
 package Stack
 
 import "fmt"
@@ -13,8 +14,13 @@ func IsEmpty_L(s *StackLinkedList) bool {
 
 // 在堆栈中添加一个项目
 func Push_L(root **StackLinkedList, data int) {
-	new_node := &StackLinkedList{data, *root}
-	*root = new_node
+	if IsEmpty_L(*root) {
+		new_node := &StackLinkedList{data, nil}
+		*root = new_node
+	} else {
+		new_node := &StackLinkedList{data, *root}
+		*root = new_node
+	}
 	fmt.Printf("%d pushed to stack\n", data)
 }
 
