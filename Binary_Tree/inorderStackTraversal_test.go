@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestPrintInorder(t *testing.T) {
+func TestInorderStackTraversal(t *testing.T) {
 	//        1  <- root
 	//      /   \
 	//     2	 3
@@ -16,5 +16,6 @@ func TestPrintInorder(t *testing.T) {
 	node.Right = &Node{3, nil, nil}
 	node.Left.Left = &Node{4, nil, nil}
 	node.Left.Right = &Node{5, nil, nil}
-	fmt.Println(PrintPreorder(node))
+	fmt.Println(PostorderTraversal(node))
+	fmt.Println(PrintPostorder(node))
 }
