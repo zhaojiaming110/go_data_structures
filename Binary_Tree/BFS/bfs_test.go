@@ -2,7 +2,7 @@ package BFS
 
 import (
 	"fmt"
-	"myrepo/Data_Structures/Binary_Tree/basic"
+	"github.com/zhaojiaming110/go_data_structures/Binary_Tree/basic"
 	"testing"
 )
 

@@ -1,6 +1,6 @@
 package BFS
 
-import "myrepo/Data_Structures/Binary_Tree/basic"
+import "github.com/zhaojiaming110/go_data_structures/Binary_Tree/basic"
 
 // 遍历树的级别顺序
 func PrintLevelorder(root *basic.Node) [][]int {
