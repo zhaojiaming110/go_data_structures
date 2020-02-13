@@ -7,7 +7,7 @@ type Node struct {
 	Right *Node
 }
 
-// 递归计算树的高度
+// 递归计算树的高度 。。
 func Heigh(node *Node) int {
 	if node == nil {
 		return 0
