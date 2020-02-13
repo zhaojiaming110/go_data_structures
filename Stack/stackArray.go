@@ -1,3 +1,4 @@
+// 使用数组的功能实现堆栈
 package Stack
 
 import "fmt"

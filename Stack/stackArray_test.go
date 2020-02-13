@@ -2,6 +2,7 @@ package Stack
 
 import (
 	"fmt"
+	"net"
 	"testing"
 )
 
@@ -15,4 +16,7 @@ func Test_main(t *testing.T) {
 	fmt.Println(s.Peek())
 	s.Pop()
 	fmt.Println(s.Pop())
+	netListen, err := net.Listen("tcp", "192.168.123.27:9800")
+	conn, err := netListen.Accept()
+	net.DialTCP()
 }

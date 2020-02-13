@@ -1,4 +1,4 @@
-// 链表实现堆栈
+// 链表实现堆栈 本质是个链表
 package Stack
 
 import "fmt"

@@ -1,3 +1,4 @@
+// 使用切片实现堆栈 本质是个Slice
 package Stack
 
 import "fmt"
