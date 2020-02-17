@@ -5,6 +5,12 @@
 - 线性： 如果数据结构的元素形成序列或线性列表，则称其为线性。示例：数组。链表，堆栈和队列
 - 非线性：如果节点的遍历本质上是非线性的，则数据结构被认为是非线性的。示例：图和树。
 ## 数据结构
+### Overview
+- [线性数据结构]()
+- [Binary Tree, BST, Heap and Hash]()
+- [Graph, Trie, Segment Tree and Suffix Tree]()
+- [Abstract Data Types 抽象数据结构类型]()
+### Linked List
 - [Singly Linked List](https://beuself.xyz/tags/singly-linked-list/)
     - [链表简介](https://beuself.xyz/post/date-structures-with-go/%E9%93%BE%E8%A1%A8%E7%AE%80%E4%BB%8B/)
     - [链表插入](https://beuself.xyz/post/date-structures-with-go/%E6%8F%92%E5%85%A5%E8%8A%82%E7%82%B9/)
@@ -18,31 +24,31 @@
     - 循环链表简介及应用
     - 循环单链表插入节点
     - 循环链表的遍历
-- Stack
-    - 堆栈介绍
-- Queue
-    - 队列简介及数组实现
-    - 队列的链表实现
-    - 队列数据结构的应用
-- Binary tree
-    - 二叉树简介
-    - 二叉树属性
-- Binary Search Tree
-    - 在BST中搜索并插入
-- Heap
-    - 二进制堆
-- Hashing
-    - 哈希简介
-- Graph
-    - 图及其表示
-    - 图的广度优先遍历
-    - 图的深度优先遍历
-    - 深度优先遍历的应用
-    - 广度优先遍历的应用
-- Advanced Data Structure
-    - Advanced List
-        - 高效内存双链表
-    - Segment Tree
-- Array
-- String
+### Stack
+- [堆栈介绍]()
+### Queue
+- [队列简介及数组实现]()
+- [队列的链表实现]()
+- [队列数据结构的应用]()
+### Binary tree
+- [二叉树简介]()
+- [二叉树属性]()
+### Binary Search Tree
+- [在BST中搜索并插入]()
+### Heap
+- [二进制堆]()
+### Hashing
+- [哈希简介]()
+### Graph
+- [图及其表示]()
+- [图的广度优先遍历]()
+- [图的深度优先遍历]()
+- [深度优先遍历的应用]()
+- [广度优先遍历的应用]()
+### Advanced Data Structure
+- [Advanced List]()
+    - [高效内存双链表]()
+- [Segment Tree]()
+### Array
+### String
     

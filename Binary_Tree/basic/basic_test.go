@@ -5,8 +5,6 @@ import (
 	"testing"
 )
 
-// hello
-
 func TestHeigh(t *testing.T) {
 	//        1  <- root
 	//      /   \
