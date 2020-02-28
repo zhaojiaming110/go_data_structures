@@ -1,3 +1,5 @@
+// Package double_linked_list implements a doubly linked list.
+
 package double_linked_list
 
 import (
