@@ -308,6 +308,7 @@ func search(e interface{}, n int, p *node) *node {
 }
 
 // Func mergeSort:列表的归并排序算法；对起始于位置p的n个元素进行排序
+// 	时间复杂度 nlog(n)
 func mergeSort(l *Lists, p *node, n int) *node { //valid(p) && rank(p) + n <= size
 	if n < 2 {
 		return p
